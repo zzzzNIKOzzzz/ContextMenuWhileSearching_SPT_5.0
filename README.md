@@ -1,4 +1,5 @@
 #ContextMenuWhileSearching SPT 5.0
+
 ContextMenuWhileSearching — BepInEx‑плагин для SPT‑AKI, реализующий вызов контекстного меню предмета в режиме обыска контейнера.
 
 zzzzzzzzАрхитектура и особенности:
