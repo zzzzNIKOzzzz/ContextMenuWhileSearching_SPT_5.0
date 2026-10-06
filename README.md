@@ -19,7 +19,7 @@ zzzzzzzzСборка
 Откройте проект в Visual Studio или Rider.
 Убедитесь, что подключены все NuGet‑пакеты (BepInEx, HarmonyLib).
 Соберите проект в режиме Release.
-Полученный .dll разместите в BepInEx/plugins.
+Полученный .dll разместите в \\EscapeFromTarkov5.0\BepInEx\plugins.
 
 zzzzzzzzЧто умеет
 Открывает контекстное меню предмета во время обыска контейнера.
