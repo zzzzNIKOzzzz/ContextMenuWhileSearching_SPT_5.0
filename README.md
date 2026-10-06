@@ -32,3 +32,5 @@ MIT — можно свободно использовать и модифици
 
 zzzzzzzzВдохновленный проектом 
 LetMeRightClick от Lacyway
+
+<img width="1280" height="720" alt="fc0437f1-6ff4-4c68-bfed-f18cfa6aa752" src="https://github.com/user-attachments/assets/05dee0cb-d802-4d6d-9c3a-0c1ff0be3d5b" />
