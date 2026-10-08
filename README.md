@@ -36,12 +36,8 @@ BepInEx 6.0.0-be.788+ (IL2CPP)
 
 Полученный .dll разместите в \\EscapeFromTarkov5.0\BepInEx\plugins.
 
-
-## Благодарности:
-zzzNIKOzzz — автор, тестирование, сборка под SPT 5.0.0
-
 ## Оригинальная идея: 
-LetMeRightClick мод  от Lacyway (версия для SPT 4.1.6 / Mono)
+[LetMeRightClick](https://sp-mod.com/mod/2405/letmerightclick) мод  от Lacyway (версия для SPT 4.1.6 / Mono)
 
 ## Лицензия:
 MIT — делай что хочешь, просто не забудь упомянуть автора.
